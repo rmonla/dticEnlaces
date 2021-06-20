@@ -15,7 +15,8 @@
       ');
 
     $logVERs = [
-      '1.1' => 'Generacioó de la función de re-direccionamiento goDst($id='')',
+      '1.2' => 'Crea los saltos INDEX y PPFINAL0623',
+      '1.1' => 'Generación de la función de re-direccionamiento goDst($id='')',
       '1.0' => 'Inicia codificación del módulo'
     ];
     
