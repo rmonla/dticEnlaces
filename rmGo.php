@@ -3,7 +3,7 @@
 	define('AVIRTUAL', SITIO.'dtic/aulavirtual/');
 
 	$bdDestinos = [
-		"0623iel" => [ AVIRTUAL."21/final/0623iel", "Pres. Proy. Final Ing. Electrónica"]
+		"0623iel" => [ AVIRTUAL."21/final/0623IEL", "Pres. Proy. Final Ing. Electrónica"]
 	];
 
 	function goDst($id=''){
