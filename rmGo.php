@@ -3,6 +3,7 @@
 	define('AVIRTUAL', SITIO.'dtic/aulavirtual/');
 
 	$bdDestinos = [
+		"gaia.confs" => [ AVIRTUAL."21/gaia", "Pres. Proy. Final Ing. Electrónica"],
 		"0623iel" => [ AVIRTUAL."21/final/0623IEL", "Pres. Proy. Final Ing. Electrónica"]
 	];
 

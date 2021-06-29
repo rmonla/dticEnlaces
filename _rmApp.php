@@ -15,6 +15,7 @@
       ');
 
     $logVERs = [
+      '1.4' => 'gaia.confs: Crea el salto.',
       '1.3' => '0623iel: Edita información de los enlaces.',
       '1.2' => 'Crea los saltos INDEX y PPFINAL0623',
       '1.1' => 'Generación de la función de re-direccionamiento goDst($id='')',
