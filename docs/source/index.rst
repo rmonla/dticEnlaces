@@ -1,10 +1,10 @@
-.. dticEnlaces documentation master file, created by
-   sphinx-quickstart on Mon Jul  5 03:52:25 2021.
+.. DTIC.Enlaces documentation master file, created by
+   sphinx-quickstart on Mon Jul  5 05:23:16 2021.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to dticEnlaces's documentation!
-=======================================
+Welcome to DTIC.Enlaces's documentation!
+========================================
 
 .. toctree::
    :maxdepth: 2
