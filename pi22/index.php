@@ -1,4 +1,4 @@
 <?php
-	include_once "../rmGo.php";
+	include_once "../.rmGo.php";
 	goDst("pi22");
 ?>
