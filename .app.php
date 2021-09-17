@@ -1,6 +1,8 @@
 <?php
-	define('SITIO', 'http://www.frlr.utn.edu.ar/');
-	define('AVIRTUAL', SITIO.'dtic/aulavirtual/');
+
+	include_once '.appDATs.php';
+
+	define('AVIRTUAL', APPHOST.'dtic/aulavirtual/');
 
 	$bdDestinos = [
 		"pi22"       => [ AVIRTUAL."22/preing", "Pre-Ingreso 2022"],
@@ -8,10 +10,12 @@
 		"0623iel"    => [ AVIRTUAL."21/final/0623IEL", "Pres. Proy. Final Ing. Electrónica"]
 	];
 
+//  exit('Parada11');
+
 	function goDst($id=''){
 		global $bdDestinos;
 
-		$dst = ( isset($bdDestinos[$id]) ) ? $bdDestinos[$id][0] : SITIO ;	
+		$dst = ( isset($bdDestinos[$id]) ) ? $bdDestinos[$id][0] : APPHOST ;	
 		header('Location: '.$dst);
 		die();
 	}

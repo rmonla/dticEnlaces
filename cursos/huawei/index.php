@@ -1,5 +1,5 @@
 <?php
-	//include_once "../.rmGo.php";
+	//include_once "../.app.php";
 	//goDst("UTNLaRioja");
 
 
@@ -22,15 +22,6 @@
 
 	$htmRefresh = ($time) ? "<meta http-equiv='Refresh' content='$time;url=$dest'/>" : "" ;
 
-
-	//  $source = "./conferencias";
-
-	// http://www.frlr.utn.edu.ar/dtic/aulavirtual/21/posg/emduciii?01
-	
-	// $genialyID = "6027b4045884590d8d1a672f";
-	// $genialyURL = "https://view.genial.ly/" . $genialyID;
-
-							// <iframe frameborder="0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="$genialyURL" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe>
 
 	echo <<<HTML
 
