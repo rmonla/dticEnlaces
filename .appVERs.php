@@ -2,7 +2,8 @@
 
 /* «® VERSIONADO  ®» */
   $logVERs = " => 
-      FALTA !!! 1.2.3 => APP: Re-codificar todos los archivos para iniciar con .app.php
+      1.2.4 => CURSOS: Agrega curso LITIO.
+      1.2.3 => APP: Re-codificar todos los archivos para iniciar con .app.php
       1.2.2 => APP: Re-codifica archivos para iniciar con .app.php
       1.2.1 => APP: Re-codifica, separa en appDATs y appVERs
       1.1.5 => pi22: Crea el salto
