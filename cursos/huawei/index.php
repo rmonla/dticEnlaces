@@ -5,7 +5,7 @@
 
 	header('Content-Type: text/html; charset=utf-8');
 
-	$titu = "CURSOS.HUAWEI";
+	$titu = "PPFinal.ICI";
 	$desc = "ACADEMIA HUAWEI - UTNLaRioja 2021";
 
 	define('SITIO', 'http://www.frlr.utn.edu.ar/dtic/aulavirtual/');
