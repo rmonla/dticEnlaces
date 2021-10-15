@@ -14,7 +14,7 @@
 	
 	$imag = SITIO."_imgs/logoUTNLR-Mini.png";
 
-	$time = 0;
+	$time = 1800;
 	$dest = URL;
 
 	$idG    = "6169cc1530ffe60dd74c3607";
