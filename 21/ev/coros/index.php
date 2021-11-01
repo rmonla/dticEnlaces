@@ -8,8 +8,8 @@
 	$titu = "Feria de la Música - 7ª Edición";
 	$desc = "Eventos.21 | Feria de la Música - 7ª Edición | UTNLaRioja";
 
-	define('SITIO', 'http://www.frlr.utn.edu.ar/dtic/aulavirtual/');
-	define('URL', SITIO.'21/cursos/huawei');
+	define('SITIO', 'http://www.frlr.utn.edu.ar/l/');
+	define('URL', SITIO.'21/ev/coros');
 	
 	
 	$imag = SITIO."_imgs/logoUTNLR-Mini.png";
