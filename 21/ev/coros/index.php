@@ -5,8 +5,8 @@
 
 	header('Content-Type: text/html; charset=utf-8');
 
-	$titu = "PFinal.ICI.1015";
-	$desc = "PFinal.ICI | SANEAMIENTO BÁSICO – ICAÑO, CATAMARCA | UTNLaRioja";
+	$titu = "Feria de la Música - 7ª Edición";
+	$desc = "Eventos.21 | Feria de la Música - 7ª Edición | UTNLaRioja";
 
 	define('SITIO', 'http://www.frlr.utn.edu.ar/dtic/aulavirtual/');
 	define('URL', SITIO.'21/cursos/huawei');
