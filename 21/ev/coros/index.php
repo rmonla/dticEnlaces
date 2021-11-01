@@ -9,12 +9,12 @@
 	$desc = "Eventos.21 | Feria de la Música - 7ª Edición | UTNLaRioja";
 
 	define('SITIO', 'http://www.frlr.utn.edu.ar/l/');
-	define('URL', SITIO.'21/ev/coros');
+	define('URL', SITIO.'21/ev/coros/');
 	
 	
-	$imag = SITIO."_imgs/logoUTNLR-Mini.png";
+	$imag = URL."01Nov.jpeg";
 
-	$time = 10;
+	$time = 15;
 	$dest = URL;
 
 	$idG    = "618065512a7a440db7581a25";
