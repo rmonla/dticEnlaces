@@ -6,7 +6,7 @@
 	header('Content-Type: text/html; charset=utf-8');
 
 	$titu = "Feria de la Música - 7ª Edición";
-	$desc = "Eventos.21 | Feria de la Música - 7ª Edición | UTNLaRioja";
+	$desc = "Encuentros de Coros - Feria de la Música 7ª Edición | UTNLaRioja";
 
 	define('SITIO', 'http://www.frlr.utn.edu.ar/l/');
 	define('URL', SITIO.'21/ev/coros/');
@@ -14,7 +14,7 @@
 	
 	$imag = URL."01Nov.jpeg";
 
-	$time = 15;
+	$time = 20;
 	$dest = URL;
 
 	$idG    = "618065512a7a440db7581a25";
