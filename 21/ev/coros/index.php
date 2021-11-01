@@ -14,7 +14,7 @@
 	
 	$imag = URL."01Nov.jpeg";
 
-	$time = 20;
+	$time = 30;
 	$dest = URL;
 
 	$idG    = "618065512a7a440db7581a25";
