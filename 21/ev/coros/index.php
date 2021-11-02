@@ -1,6 +1,6 @@
 <?php
-	//include_once "../.app.php";
-	//goDst("UTNLaRioja");
+	
+	// http://www.frlr.utn.edu.ar/l/21/ev/coros?03
 
 
 	header('Content-Type: text/html; charset=utf-8');
@@ -12,7 +12,7 @@
 	define('URL', SITIO.'21/ev/coros/');
 	
 	
-	$imag = URL."01Nov.jpeg";
+	$imag = URL."02Nov.jpeg";
 
 	$time = 30;
 	$dest = URL;
