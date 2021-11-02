@@ -1,12 +1,12 @@
 <?php
 	
-	// http://www.frlr.utn.edu.ar/l/21/ev/coros?03
+	// http://www.frlr.utn.edu.ar/l/21/ev/coros?13
 
 
 	header('Content-Type: text/html; charset=utf-8');
 
-	$titu = "Feria de la Música 7ª Edición | UTNLaRioja";
-	$desc = "Encuentro de COROS | Coro Provincial de Jóvenes
+	$titu = "Encuentro de COROS - Feria de la Música 7ª Edición | UTNLaRioja";
+	$desc = "Coro Provincial de Jóvenes
 - Dir. Nehuen CAMACHO
 
 | Coro Escuela Dante Alighieri
