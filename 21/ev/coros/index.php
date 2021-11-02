@@ -6,7 +6,7 @@
 	header('Content-Type: text/html; charset=utf-8');
 
 	$titu = "Feria de la Música 7ª Edición | UTNLaRioja";
-	$desc = "Encuentro de COROS";
+	$desc = "Encuentro de COROS Encuentro de COROS Encuentro de COROS Encuentro de COROS ";
 
 	define('SITIO', 'http://www.frlr.utn.edu.ar/l/');
 	define('URL', SITIO.'21/ev/coros/');
