@@ -10,9 +10,9 @@
 - Dir. Nehuen CAMACHO
 
 | Coro Escuela Dante Alighieri
-- Dir. Andres FLORES
+- Dir. Andrés FLORES
 
-| Coro Docentes Municiales
+| Coro Docentes Municipales
 - Dir. Ricardo FLORES
 
 | Coro Polifónico de la Provincia
