@@ -5,8 +5,21 @@
 
 	header('Content-Type: text/html; charset=utf-8');
 
-	$titu = "Encuentro de Coros";
-	$desc = "Feria de la Música 7ª Edición | UTNLaRioja";
+	$titu = "Feria de la Música 7ª Edición | UTNLaRioja";
+	$desc = "Encuentro de COROS
+
+>> Coro Provincial de Jóvenes
+- Dir. Nehuen CAMACHO
+
+>> Coro Escuela Dante Alighieri
+- Dir. Andres FLORES
+
+>> Coro Docentes Municiales
+- Dir. Ricardo FLORES
+
+>> Coro Polifónico de la Provincia
+- Dir. Jorge SALICA
+	";
 
 	define('SITIO', 'http://www.frlr.utn.edu.ar/l/');
 	define('URL', SITIO.'21/ev/coros/');
