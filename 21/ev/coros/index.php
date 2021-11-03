@@ -1,28 +1,55 @@
 <?php
 	
 	// http://www.frlr.utn.edu.ar/l/21/ev/coros?13
+	// 
+	// FACEBOOK
+	//  EVENTO: 
+	//  	https://www.facebook.com/events/1029159644528296/
+	//  	https://www.facebook.com/live/producer/1398955060530177/?entry_point=event_confirmation_dialog
+	//  	
+	//  	https://www.facebook.com/ElBoletinUtnLaRioja/videos
+	//  	
+	//  
+	//  CLAVE: FB-541283073851852-0-AbwxGsm8X4eCUhXi
+	//  URL:   rtmps://live-api-s.facebook.com:443/rtmp/
+	//  
+	//  https://www.facebook.com/ElBoletinUtnLaRioja/live_videos/
+	//  
+	//  
+	// YOUTUBE
+	//  EVENTO: 
+	//  	https://www.facebook.com/events/1029159644528296/
+	//  	https://www.facebook.com/live/producer/1398955060530177/?entry_point=event_confirmation_dialog
+	//  	
+	//  	https://www.facebook.com/ElBoletinUtnLaRioja/videos
+	//  	
+	//  
+	//  CLAVE: 7g1r-grz5-4cp9-4tuj-9maz
+	//  URL:   rtmp://a.rtmp.youtube.com/live2
+
 
 
 	header('Content-Type: text/html; charset=utf-8');
 
 	$titu = "Encuentro de COROS - Feria de la Música 7ª Edición | UTNLaRioja";
-	$desc = "Coro Provincial de Jóvenes
-- Dir. Nehuen CAMACHO
+	// $desc = "";
+	$desc = "Coro Provincial de Niños y Niñas
+- Dir. Daniel MERCADO
 
-| Coro Escuela Dante Alighieri
-- Dir. Andrés FLORES
+| Coro Infantil Madre Catalina
+- Dir. Rubén CASTAÑEDA
 
-| Coro Docentes Municipales
-- Dir. Ricardo FLORES
+| Coro Kuntur
+- Dir. Ricardo PELLIZA
 
-| Coro Polifónico de la Provincia
-- Dir. Jorge SALICA";
+| Coro de Canto Popular Legislatura
+- Dir. Andrés FLORES";
 
 	define('SITIO', 'http://www.frlr.utn.edu.ar/l/');
 	define('URL', SITIO.'21/ev/coros/');
 	
 	
-	$imag = URL."02Nov.jpeg";
+	$imag = URL."03Nov.jpeg";
 
 	$time = 30;
 	$dest = URL;
