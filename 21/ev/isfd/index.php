@@ -32,7 +32,7 @@
 	header('Content-Type: text/html; charset=utf-8');
 
 	$titu = "Acto Colación ISFD Dr. Pedro I. de Castro Barros";
-	$desc = "";
+	$desc = "Martes 16 Noviembre, 19Hs.";
 // 	$desc = "Coro Provincial de Niños y Niñas
 // - Dir. Daniel MERCADO
 
@@ -49,7 +49,8 @@
 	define('URL', SITIO.'21/ev/isfd/');
 	
 	
-	$imag = URL."final.png";
+	$imag = URL."logo.jpg";
+//	$imag = URL."final.png";
 
 	$time = 30;
 	$dest = URL;
