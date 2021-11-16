@@ -31,7 +31,7 @@
 
 	header('Content-Type: text/html; charset=utf-8');
 
-	$titu = "Acto Colación ISFD Dr. Pedro I. de Castro Barros";
+	$titu = "Colación ISFD Dr. Pedro I. de Castro Barros";
 	$desc = "Martes 16 Noviembre, 19Hs.";
 	
 // 	$desc = "Coro Provincial de Niños y Niñas
