@@ -33,6 +33,7 @@
 
 	$titu = "Acto Colación ISFD Dr. Pedro I. de Castro Barros";
 	$desc = "Martes 16 Noviembre, 19Hs.";
+	
 // 	$desc = "Coro Provincial de Niños y Niñas
 // - Dir. Daniel MERCADO
 
@@ -55,7 +56,7 @@
 	$time = 30;
 	$dest = URL;
 
-	$idG    = "618065512a7a440db7581a25";
+	$idG    = "6193daf4c5d9760d8b0e9134";
 	$source = "https://view.genial.ly/$idG";
 
 	$htmRefresh = ($time) ? "<meta http-equiv='Refresh' content='$time;url=$dest'/>" : "" ;
