@@ -41,7 +41,7 @@
 	define('URL', SITIO.'21/ev/ecide/');
 	
 	
-	$imag = URL."logoUTNLR-Mini.jpg";
+	$imag = URL."logoGAIA2.jpg";
 //	$imag = URL."final.png";
 
 	$time = 30;
