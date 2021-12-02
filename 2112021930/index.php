@@ -1,6 +1,5 @@
 <?php
 	
-	// http://www.frlr.utn.edu.ar/l/21/ev/coros?13
 	// 
 	// FACEBOOK
 	//  EVENTO: 
@@ -39,6 +38,8 @@
  	$dsc = "Acto de Colación de Posgrado - UTNLaRioja [Jueves 2 Dic. 19:30 Hs.]";
 
 	$dst  = $url.'2112021930/';
+	
+	// http://www.frlr.utn.edu.ar/l/2112021930?01
 	
 	$img  = $dst."final.png";
 	
