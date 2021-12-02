@@ -43,7 +43,7 @@
 	
 	$img  = $dst."final.png";
 	
-	$idG  = "61951087ed208e0d9fcbca4e";
+	$idG  = "61a81aa169f6550d873730f1";
 
 	$time = 30;
 	
