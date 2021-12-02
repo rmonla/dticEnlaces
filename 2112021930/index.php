@@ -33,9 +33,9 @@
 
 	$url = "http://www.frlr.utn.edu.ar/l/";
 	
-	$tit = "COLACION - UTNLaRioja";
+	$tit = "Acto de Colación de Posgrado - UTNLaRioja";
  	
- 	$dsc = "Acto de Colación de Posgrado - UTNLaRioja [Jueves 2 Dic. 19:30 Hs.]";
+ 	$dsc = "Jueves 2 Dic. 19:30 Hs.";
 
 	$dst  = $url.'2112021930/';
 	
